@@ -1,0 +1,4 @@
+# Written by the memory MCP server at runtime
+memory.json
+.DS_Store
+*.bak
